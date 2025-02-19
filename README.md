@@ -29,6 +29,12 @@ A Python project that automates WiFi login by saving user credentials in a `cred
       }
 ```
 
+open network login portal page.
+if already logged in , logout.
+Now login and open developers panel (ctrl+shit+I)
+open networks tab and then payload.
+![payload](image.png)
+
 ### Steps to Build the Executable
 
 1. Install PyInstaller:
